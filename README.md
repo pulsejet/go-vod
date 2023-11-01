@@ -1,4 +1,4 @@
-# Historical
+# ⚠️⚠️⚠️ Historical ⚠️⚠️⚠️
 
 This repo is historical and go-vod has been merged into the [Memories](https://github.com/pulsejet/memories) monorepo. This repo will be archived soon.
 
